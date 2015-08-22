@@ -1,0 +1,16 @@
+{
+	"name": "node-openzipkin-thrift",
+	"version": "1.0.0",
+	"description": "Generated Thrift stubs for the OpenZipkin codebase",
+	"keywords": ["openzipkin", "zipkin", "tracing"],
+	"main": "node-openzipkin.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/node-openzipkin-thrift"
+	},
+	"author": "rektide de la faye",
+	"license": "X"
+}
