@@ -1,9 +1,9 @@
 {
-	"name": "node-openzipkin-thrift",
+	"name": "openzipkin-thrift",
 	"version": "1.0.0",
 	"description": "Generated Thrift stubs for the OpenZipkin codebase",
 	"keywords": ["openzipkin", "zipkin", "tracing"],
-	"main": "node-openzipkin.js",
+	"main": "openzipkin.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
